@@ -1,0 +1,31 @@
+.inlineStyle {
+  display: inline;
+}
+
+body {
+  background-color: #eee;
+  background-image: linear-gradient(
+    to right top,
+    #990404,
+    #b4002e,
+    #bf0064,
+    #a700ab,
+    #081df6
+  );
+}
+
+/* .card {
+  border: none;
+  border-radius: 10px;
+} */
+
+.serviceCard {
+  border: none;
+  border-radius: 10px;
+}
+
+.text {
+  font-size: 14px;
+  font-weight: 600;
+  color: #69686a;
+}
